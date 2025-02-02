@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,css,javascript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -84,7 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1NO_ZBVZgFC8H8mwVmPX4j00SO6C4ul03/view?usp=sharing]
 *Explain what the video demonstrates*
 
 # Additional Demos
