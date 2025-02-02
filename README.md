@@ -14,13 +14,13 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[It is waste management website used to collect wastes from user regsiter in the site by charging a certain amount]
+[It is waste management website used to collect wastes from user regsitered in the site by charging a certain amount for plastic , paper ,food seperately]
 
 ### The Problem statement
 [To control the over generating of waste and to follow sustainable way of despositing it]
 
 ### The Solution
-[ ]
+[plastic waste upto 10 kg charges 5 rupeees per kg,paper waste upto 10kg charges 5 rupees per kg,food waste upto 10kg charges 10 rupees per kg,incase of  ]
 
 ## Technical Details
 ### Technologies/Components Used
