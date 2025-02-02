@@ -11,7 +11,7 @@
 - Member 3: [Amritha P] - [College of engineering, adoor]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://wastemanagementsystem.vercel.app/]
 
 ### Project Description
 [It is waste management website used to collect wastes from user regsitered in the site by charging a certain amount for plastic , paper ,food seperately]
