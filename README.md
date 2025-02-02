@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+# [Waste Management website] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Hexas..]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aiswarya R] - [College of engineering,adoor]
+- Member 2: [Aiswarya S] - [College of engineering ,adoor]
+- Member 3: [Amritha P] - [College of engineering, adoor]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[It is waste management website used to collect wastes from user regsiter in the site by charging a certain amount]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[To control the over generating of waste and to follow sustainable way of despositing it]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[ ]
 
 ## Technical Details
 ### Technologies/Components Used
